@@ -56,6 +56,6 @@ This UML diagram below represents the structure and relationships of the API's c
 ## Testing 
  The documentation include test to verify the API's functionality.
   
-![doc-test/starting-postman-test.png](doc-test/start-test.png)
+![doc-test/starting-postman-test.png](docs-test/start-test.png)
 
-![doc-utils/postman-test-result.png](doc-test/result.png)
+![doc-utils/postman-test-result.png](docs-test/result.png)
